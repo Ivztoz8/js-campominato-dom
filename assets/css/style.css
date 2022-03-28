@@ -96,3 +96,11 @@ footer{
     padding: 10px;
     border: 1px solid var(--dark);
 }
+
+.clicked{
+    background-color: #6495ED;
+}
+
+.bomba{
+    background-color: red;
+}
